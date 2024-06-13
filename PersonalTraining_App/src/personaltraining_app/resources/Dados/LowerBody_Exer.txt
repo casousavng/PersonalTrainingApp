@@ -1,0 +1,25 @@
+Agachamento Livre,Faca o agachamento livre com barra,Barra de peso,15,60,60,3
+Cardio em Bicicleta,Realize cardio em bicicleta estacionaria,Bicicleta Estacionaria,1,0,60,1
+Levantamento Terra,Execute o levantamento terra com barra,Barra de peso,12,70,60,3
+Agachamento com Salto,Faca o agachamento com salto,Nenhum,20,0,60,3
+Flexao de Pernas,Faca a flexao de pernas na maquina,Maquina de musculacao,15,80,60,3
+Leg Press,Realize o leg press na maquina,Maquina de musculacao,12,100,60,3
+Cardio em Passadeira,Realize cardio em passadeira,Passadeira,1,0,60,1
+Avanco,Faca o avanco com halteres,Par de Halteres,10,15,60,3
+Gemeos em Pe,Faca o gemeos em pe na maquina,Maquina de musculacao,10,50,60,3
+Stiff,Execute o stiff com barra,Barra de peso,12,40,60,3
+Cardio em Eliptico,Realize cardio em eliptica,Eliptica,1,0,60,1
+Gemeos Sentado,Faca o gemeos sentado na maquina,Maquina de musculacao,12,50,60,3
+Agachamento Sumo,Execute o agachamento sumo com barra,Barra de peso,12,60,60,3
+Afundo,Faca o afundo com halteres,Par de Halteres,8,20,60,3
+Cardio em Escada,Realize cardio em escada,Escada,1,0,60,1
+Cardio em Step,Realize cardio em step,Step,1,0,60,1
+Mergulho em Barra,Execute o mergulho em barra,Barra,12,0,60,2
+Stiff com Halteres,Faca o stiff com halteres,Par de Halteres,15,30,60,4
+Agachamento Hack,Realize o agachamento hack na maquina,Maquina de musculacao,12,80,60,3
+Flexao de Pernas em Maquina,Execute a flexao de pernas na maquina,Maquina de musculacao,18,70,60,3
+Cardio em Patins,Realize cardio em patins,Patins,1,0,60,1
+Agachamento Frontal,Faca o agachamento frontal com barra,Barra de peso,15,50,60,3
+Cardio em Corda,Realize cardio em corda,Corda,1,0,60,1
+Leg Curl,Execute o leg curl na maquina,Maquina de musculacao,15,40,60,3
+Afundo com Barra,Faca o afundo com barra,Barra de peso,10,40,60,3

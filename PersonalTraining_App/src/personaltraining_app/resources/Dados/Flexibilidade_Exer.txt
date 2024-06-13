@@ -1,0 +1,10 @@
+Alongamento de pernas,Realize um alongamento de pernas (para cada membro),Tapete,20,0,0,25
+Torcao da coluna,Faca uma torcao da coluna,Tapete,45,0,0,20
+Flexao frontal,Execute uma flexao frontal (para cada membro),Tapete,35,0,0,30
+Alongamento de bracos,Faca um alongamento de bracos (para cada membro),Tapete,25,0,0,20
+Flexao lateral,Realize uma flexao lateral (para cada membro),Tapete,30,0,0,20
+Ponte,Realize uma ponte,Tapete,40,0,0,30
+Abertura de pernas,Faca uma abertura de pernas,Tapete,15,0,0,25
+Giro de tronco,Sente-se e faca um giro de tronco,Tapete,35,0,0,20
+Agachamento profundo,Execute um agachamento profundo (para cada membro),Tapete,20,0,0,25
+Flexao de joelhos,Sente-se e faca uma flexao de joelhos (para cada membro),Tapete,50,0,0,20

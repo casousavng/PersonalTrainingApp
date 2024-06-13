@@ -1,0 +1,24 @@
+Supino,Faca o exercicio de supino com barra,10
+Agachamento,Faca agachamentos com barra,12
+Levantamento Terra,Realize levantamento terra com barra,10
+Remada Curvada,Faca remada curvada com barra,12
+Flexao de Pernas,Faca flexao de pernas em maquina,12
+Desenvolvimento,Faca desenvolvimento com barra,10
+Rosca Direta,Realize rosca direta com halteres,12
+Elevacao Lateral,Faca elevacao lateral com halteres,10
+Agachamento Hack,Execute agachamento hack em maquina,12
+Crucifixo,Faca crucifixo com halteres,12
+Flexao de Bracos,Faca flexoes de bracos,10
+Rosca Scott,Realize rosca scott com barra,12
+Leg Press,Realize o leg press na maquina,12
+Puxada Alta,Execute a puxada alta na maquina,12
+Encolhimento de Ombros,Execute o encolhimento de ombros com halteres,10
+Flexao com Pernas Elevadas,Faca flexoes com as pernas elevadas,10
+Pulldown,Faca o pulldown na maquina,12
+Flexao Lateral,Faca flexoes laterais,10
+Agachamento Bulgaro,Faca agachamentos bulgaros,12
+Extensao de Triceps,Faca a extensao de triceps com corda,12
+Remada Alta,Execute a remada alta na maquina,12
+Rosca Concentrada,Realize a rosca concentrada com halteres,12
+Elevacao Frontal,Faca a elevacao frontal com halteres,10
+Flexao Diamond,Realize a flexao diamond no chao,10

@@ -1,0 +1,24 @@
+Corrida,Faca uma corrida moderada de 100 metros,30
+Flexao de Bracos,Faca flexoes de bracos,15
+Agachamento Livre,Faca agachamentos sem peso adicional,20
+Burpees,Realize burpees,15
+Prancha,Faca uma prancha,60
+Polichinelo,Realize polichinelos,30
+Abdominais,Faca abdominais,20
+Flexao de Pernas,Faca flexoes de pernas,20
+Jumping Jacks,Realize jumping jacks,30
+Escalada,Realize escaladas em posicao de prancha,15
+Afundo,Execute afundos,15
+Corrida de Alta Intensidade,Faca uma corrida de alta intensidade de 50 metros,20
+Flexao de Bracos com Apoio,Faca flexoes de bracos com apoio,15
+Agachamento Sumo,Faca agachamentos sumo,15
+Abdominais em V,Faca abdominais em formato de V,15
+Pular Corda,Realize pulos de corda,50
+Mountain Climbers,Realize mountain climbers,20
+Flexao Lateral,Faca flexoes laterais,15
+Agachamento com Salto,Realize agachamentos com salto,15
+Corrida Estacionaria,Realize corrida estacionaria,45
+Flexao de Bracos Diamante,Faca flexoes de bracos no estilo diamante,15
+Agachamento com Salto Lateral,Faca agachamentos com salto lateral,15
+Flexao de Bracos com Rotacao,Faca flexoes de bracos com rotacao,15
+Burpees com Salto,Faca burpees com salto,15

@@ -1,0 +1,20 @@
+Agachamento com Barra,Faca agachamentos com uma barra sobre os ombros,Barra de peso,15,50,60,3
+Flexao de Bracos,Faca flexoes de bracos,Chao,20,0,60,2
+Remada com Halteres,Faca remadas com halteres,Par de Halteres,8,15,60,4
+Prensa de Ombros,Faca pressao de ombros com halteres,Par de Halteres,6,10,60,3
+Avanco,Faca avancos,Chao,10,0,60,5
+Prancha,Faca uma prancha,Chao,1,0,60,3
+Deadlift,Faca levantamento terra com uma barra,Barra de peso,5,60,60,5
+Abdominais,Faca abdominais,Colchonete,20,0,60,3
+Flexao Lateral,Faca flexoes laterais,Par de Halteres,1,5,60,3
+Agachamento Bulgaro,Faca agachamentos bulgaros,Chao,15,0,60,3
+Flexao com Pernas Elevadas,Faca flexoes com as pernas elevadas,Chao,12,0,60,4
+Agachamento com Peso Corporal,Faca agachamentos sem peso adicional,Chao,10,0,60,4
+Pull-Up,Realize pull-ups em uma barra fixa,Barra fixa,8,0,60,3
+Levantamento de Peso Morto com Halteres,Faca levantamento de peso morto com halteres,Par de Halteres,6,20,60,5
+Burpees,Realize burpees,Chao,15,0,60,5
+Flexao de Bracos com Halteres,Faca flexoes de bracos com halteres,Par de Halteres,12,10,60,4
+Levantamento Frontal com Barra,Faca levantamentos frontais com uma barra,Barra de peso,10,15,60,3
+Mountain Climbers,Realize mountain climbers,Chao,20,0,60,3
+Flexao de Pernas em Pe,Faca flexoes de pernas em pe,Chao,20,0,60,2
+Remada na Maquina,Faca remadas em uma maquina,Equipamento de musculacao,15,25,60,4

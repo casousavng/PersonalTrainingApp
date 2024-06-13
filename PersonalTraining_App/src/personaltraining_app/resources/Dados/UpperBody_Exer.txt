@@ -1,0 +1,25 @@
+Supino Reto,Faca o supino reto com barra,Barra de peso,15,50,60,3
+Rosca Direta,Realize a rosca direta com halteres,Par de Halteres,20,15,60,2
+Pulldown,Faca o pulldown na maquina,Maquina de musculacao,12,40,60,4
+Desenvolvimento Militar,Execute o desenvolvimento militar com barra,Barra de peso,10,30,60,5
+Crucifixo Inclinado,Realize o crucifixo inclinado com halteres,Par de Halteres,12,10,60,3
+Triceps Testa,Faca o triceps testa com barra EZ,Barra EZ,15,20,60,3
+Elevacao Frontal,Realize a elevacao frontal com halteres,Par de Halteres,12,10,60,4
+Remada Unilateral,Execute a remada unilateral com halteres,Par de Halteres,10,25,60,3
+Abdominal Inferior,Faca o abdominal inferior na maquina,Maquina de musculacao,20,0,60,5
+Flexao Diamond,Realize a flexao diamond no chao,Nenhum,12,0,60,5
+Rosca Scott,Faca a rosca Scott com barra,Barra de peso,15,20,60,3
+Pullover,Execute o pullover com halteres,Par de Halteres,15,15,60,3
+Fly Pec Deck,Realize o fly pec deck na maquina,Maquina de musculacao,10,20,60,4
+Extensao de Triceps,Faca a extensao de triceps com corda,Maquina de musculacao,12,20,60,3
+Remada Alta,Execute a remada alta na maquina,Maquina de musculacao,10,40,60,2
+Rosca Concentrada,Realize a rosca concentrada com halteres,Par de Halteres,12,12,60,3
+Triceps Testa na Polia,Faca o triceps testa na polia,Maquina de musculacao,8,25,60,5
+Elevacao Lateral com Halteres,Realize a elevacao lateral com halteres,Par de Halteres,10,10,60,4
+Puxada Alta,Execute a puxada alta na maquina,Maquina de musculacao,10,40,60,3
+Supino Inclinado,Faca o supino inclinado com barra,Barra de peso,12,45,60,4
+Rosca Martelo,Realize a rosca martelo com halteres,Par de Halteres,8,15,60,5
+Triceps Frances,Faca o triceps frances com barra,Barra de peso,10,20,60,3
+Elevacao Frontal na Maquina,Realize a elevacao frontal na maquina,Maquina de musculacao,12,20,60,2
+Flexao com Rotacao,Faca a flexao com rotacao, Nenhum,10,0,60,4
+Encolhimento de Ombros,Execute o encolhimento de ombros com halteres,Par de Halteres,20,25,60,3

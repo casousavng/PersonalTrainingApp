@@ -1,0 +1,15 @@
+Corrida de 100 Metros,Realize uma corrida de 100 metros,3
+Sprints,Realize sprints de alta intensidade,5
+Agachamento Explosivo,Execute agachamentos explosivos,3
+Pulos em Distancia,Realize pulos em distancia,5
+Shuttle Run,Execute o teste Shuttle Run,5
+Corrida de 50 Metros,Realize uma corrida de 50 metros,3
+Piques,Realize piques de curta distancia,5
+Corrida de 200 Metros,Realize uma corrida de 200 metros,3
+Sprints Laterais,Realize sprints laterais,5
+Saltos em Altura,Realize saltos em altura,3
+Pulos em Altura,Realize pulos em altura,5
+Sprints em Zigue-Zague,Realize sprints em zigue-zague,5
+Agachamento com Salto,Realize agachamentos com salto,3
+Corrida com Obstaculos,Realize corrida com obstaculos,5
+Sprints em Subida,Realize sprints em subida,3
